@@ -1,0 +1,17 @@
+﻿  Hexagon.cpp
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(165,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(180,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(268,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(281,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(281,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(282,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(282,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(294,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(307,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(307,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(308,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(308,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(189): warning C4715: Hue: значение возвращается не при всех путях выполнения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\MrSuperBuddy\source\repos\Hexagon\x64\Debug\Hexagon.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

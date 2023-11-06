@@ -1,0 +1,17 @@
+﻿  Hexagon.cpp
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(165,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(180,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(268,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(281,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(281,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(282,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(282,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(294,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(307,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(307,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(308,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(308,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Hexagon\Hexagon\Hexagon.cpp(189): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\MrSuperBuddy\source\repos\Hexagon\Debug\Hexagon.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Hexagon.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Hexagon\Debug\Hexagon.exe
